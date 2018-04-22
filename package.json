@@ -52,5 +52,13 @@
   },
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.",
   "main": "server.js",
-  "author": ""
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaCapota/meanLicence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlinaCapota/meanLicence/issues"
+  },
+  "homepage": "https://github.com/AlinaCapota/meanLicence#readme"
 }
