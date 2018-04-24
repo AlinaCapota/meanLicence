@@ -1,0 +1,14 @@
+{
+    "/api": {
+        "target" : "http://localhost:3110",
+        "secure" : false
+    },
+    "/api/appointments": {
+        "target" : "http://localhost:3110",
+        "secure" : false
+    }
+    // "/api/appointments": {
+    //     "target" : "http://localhost:3110/api/appointments",
+    //     "secure" : false
+    // }
+}
